@@ -1,0 +1,5 @@
+https://hub.docker.com/r/<DOCKERHUB_USERNAME>/telco-churn-model
+
+TODO: replace with your actual Docker Hub repo URL once the CI workflow has
+pushed an image. Requires DOCKERHUB_USERNAME and DOCKERHUB_TOKEN added as
+GitHub Actions secrets on this repository.
