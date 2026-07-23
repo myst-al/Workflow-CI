@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLProject/mlruns/723271565822702529/13c4751cb12a49cb92f5dc0645029bf0/artifacts
+end_time: 1784772650645
+entry_point_name: ''
+experiment_id: '723271565822702529'
+lifecycle_stage: active
+run_id: 13c4751cb12a49cb92f5dc0645029bf0
+run_name: polite-ram-336
+run_uuid: 13c4751cb12a49cb92f5dc0645029bf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784772641137
+status: 3
+tags: []
+user_id: runner
